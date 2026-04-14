@@ -1,0 +1,181 @@
+{
+  "version": "1.0.0",
+  "candidates": [
+    {
+      "id": "cand_gov_dem_01",
+      "name": "Joyce Craig",
+      "office": "governor",
+      "party": "D",
+      "district": null,
+      "bio": "Former Mayor of Manchester and Democratic candidate for Governor. Craig has focused on housing affordability, Medicaid expansion, and workforce development.",
+      "website": "https://joycecraig.com",
+      "imageUrl": null,
+      "positions": [
+        { "questionId": "q_school_funding_01", "stance": 4, "stanceNote": "Supports reforming school funding to reduce property tax burden", "sourceUrl": null },
+        { "questionId": "q_prop_tax_02", "stance": 4, "stanceNote": "Supports property tax relief through state-level reform", "sourceUrl": null },
+        { "questionId": "q_housing_03", "stance": 5, "stanceNote": "Has championed zoning reform and multi-family housing as mayor", "sourceUrl": null },
+        { "questionId": "q_abortion_04", "stance": 5, "stanceNote": "Strong supporter of reproductive rights", "sourceUrl": null },
+        { "questionId": "q_opioids_05", "stance": 5, "stanceNote": "Prioritized opioid treatment funding as mayor", "sourceUrl": null },
+        { "questionId": "q_energy_06", "stance": 4, "stanceNote": "Supports renewable energy investment", "sourceUrl": null },
+        { "questionId": "q_gun_07", "stance": 4, "stanceNote": "Supports universal background checks", "sourceUrl": null },
+        { "questionId": "q_budget_08", "stance": 4, "stanceNote": "Open to new revenue mechanisms for critical services", "sourceUrl": null },
+        { "questionId": "q_medicaid_09", "stance": 5, "stanceNote": "Strong proponent of making Medicaid expansion permanent", "sourceUrl": null },
+        { "questionId": "q_primary_10", "stance": 4, "stanceNote": "Supports NH primary tradition", "sourceUrl": null }
+      ]
+    },
+    {
+      "id": "cand_gov_rep_01",
+      "name": "Kelly Ayotte",
+      "office": "governor",
+      "party": "R",
+      "district": null,
+      "bio": "Former U.S. Senator and NH Attorney General. Republican candidate for Governor emphasizing fiscal restraint, public safety, and limited government.",
+      "website": "https://kellyayotte.com",
+      "imageUrl": null,
+      "positions": [
+        { "questionId": "q_school_funding_01", "stance": 2, "stanceNote": "Prefers local control over state-mandated funding reform", "sourceUrl": null },
+        { "questionId": "q_prop_tax_02", "stance": 4, "stanceNote": "Supports reducing property taxes through spending discipline", "sourceUrl": null },
+        { "questionId": "q_housing_03", "stance": 2, "stanceNote": "Prioritizes local zoning control over state mandates", "sourceUrl": null },
+        { "questionId": "q_abortion_04", "stance": 2, "stanceNote": "Supports current 24-week limit, opposes further expansion", "sourceUrl": null },
+        { "questionId": "q_opioids_05", "stance": 3, "stanceNote": "Supports treatment-focused approaches but skeptical of large funding increases", "sourceUrl": null },
+        { "questionId": "q_energy_06", "stance": 3, "stanceNote": "Open to renewables but emphasizes energy independence over mandates", "sourceUrl": null },
+        { "questionId": "q_gun_07", "stance": 2, "stanceNote": "Opposes new restrictions on law-abiding gun owners", "sourceUrl": null },
+        { "questionId": "q_budget_08", "stance": 1, "stanceNote": "Strongly opposes new broad-based taxes", "sourceUrl": null },
+        { "questionId": "q_medicaid_09", "stance": 3, "stanceNote": "Supports current Medicaid expansion with work requirement considerations", "sourceUrl": null },
+        { "questionId": "q_primary_10", "stance": 5, "stanceNote": "Vocal advocate for NH First-in-the-Nation primary", "sourceUrl": null }
+      ]
+    },
+    {
+      "id": "cand_ussen_dem_01",
+      "name": "Jeanne Shaheen",
+      "office": "us_senate",
+      "party": "D",
+      "district": null,
+      "bio": "U.S. Senator from NH since 2009 and former Governor. Shaheen is one of the most senior Democratic senators from New England.",
+      "website": "https://shaheen.senate.gov",
+      "imageUrl": null,
+      "positions": [
+        { "questionId": "q_school_funding_01", "stance": 5, "stanceNote": "Has supported federal education funding reform", "sourceUrl": null },
+        { "questionId": "q_prop_tax_02", "stance": 4, "stanceNote": "Supports relief through federal programs and state reform", "sourceUrl": null },
+        { "questionId": "q_housing_03", "stance": 5, "stanceNote": "Champion of affordable housing legislation", "sourceUrl": null },
+        { "questionId": "q_abortion_04", "stance": 5, "stanceNote": "Supports federal abortion access protections", "sourceUrl": null },
+        { "questionId": "q_opioids_05", "stance": 5, "stanceNote": "Co-sponsored major opioid treatment legislation", "sourceUrl": null },
+        { "questionId": "q_energy_06", "stance": 5, "stanceNote": "Supported Inflation Reduction Act clean energy investments", "sourceUrl": null },
+        { "questionId": "q_gun_07", "stance": 4, "stanceNote": "Voted for Bipartisan Safer Communities Act", "sourceUrl": null },
+        { "questionId": "q_budget_08", "stance": 4, "stanceNote": "Supports targeted revenue increases for essential services", "sourceUrl": null },
+        { "questionId": "q_medicaid_09", "stance": 5, "stanceNote": "Strong Medicaid expansion supporter", "sourceUrl": null },
+        { "questionId": "q_primary_10", "stance": 4, "stanceNote": "Supports NH primary but worked within DNC process", "sourceUrl": null }
+      ]
+    },
+    {
+      "id": "cand_nhsen_dem_07",
+      "name": "Becky Whitley",
+      "office": "nh_senate",
+      "party": "D",
+      "district": 15,
+      "bio": "NH State Senator representing District 15 (Concord area). Focus on mental health, opioid recovery, and public education.",
+      "website": null,
+      "imageUrl": null,
+      "positions": [
+        { "questionId": "q_school_funding_01", "stance": 5, "stanceNote": "Sponsored legislation to reform school funding formula", "sourceUrl": null },
+        { "questionId": "q_prop_tax_02", "stance": 4, "stanceNote": "Supports property tax relief tied to school funding reform", "sourceUrl": null },
+        { "questionId": "q_housing_03", "stance": 4, "stanceNote": "Voted for zoning reform bills", "sourceUrl": null },
+        { "questionId": "q_abortion_04", "stance": 5, "stanceNote": "Strong reproductive rights advocate", "sourceUrl": null },
+        { "questionId": "q_opioids_05", "stance": 5, "stanceNote": "Championed MAT access and recovery housing funding", "sourceUrl": null },
+        { "questionId": "q_energy_06", "stance": 4, "stanceNote": "Supports renewable energy siting reform", "sourceUrl": null },
+        { "questionId": "q_gun_07", "stance": 3, "stanceNote": "Supports background check expansion", "sourceUrl": null },
+        { "questionId": "q_budget_08", "stance": 4, "stanceNote": "Favors revenue reform to fund services", "sourceUrl": null },
+        { "questionId": "q_medicaid_09", "stance": 5, "stanceNote": "Led push for permanent Medicaid expansion", "sourceUrl": null },
+        { "questionId": "q_primary_10", "stance": 3, "stanceNote": "Neutral on primary status debate", "sourceUrl": null }
+      ]
+    },
+    {
+      "id": "cand_nhsen_rep_11",
+      "name": "Sharon Carson",
+      "office": "nh_senate",
+      "party": "R",
+      "district": 14,
+      "bio": "NH State Senator representing District 14 (Londonderry/Derry). Focus on fiscal conservatism, local control in education, and public safety.",
+      "website": null,
+      "imageUrl": null,
+      "positions": [
+        { "questionId": "q_school_funding_01", "stance": 1, "stanceNote": "Opposes state-level school funding mandate changes", "sourceUrl": null },
+        { "questionId": "q_prop_tax_02", "stance": 4, "stanceNote": "Supports property tax relief through budget discipline", "sourceUrl": null },
+        { "questionId": "q_housing_03", "stance": 1, "stanceNote": "Strong local zoning control advocate, opposes state mandates", "sourceUrl": null },
+        { "questionId": "q_abortion_04", "stance": 1, "stanceNote": "Supports further restrictions on abortion access", "sourceUrl": null },
+        { "questionId": "q_opioids_05", "stance": 3, "stanceNote": "Supports treatment but wary of large spending increases", "sourceUrl": null },
+        { "questionId": "q_energy_06", "stance": 2, "stanceNote": "Skeptical of renewable mandates; favors free market approach", "sourceUrl": null },
+        { "questionId": "q_gun_07", "stance": 1, "stanceNote": "Opposes additional gun restrictions", "sourceUrl": null },
+        { "questionId": "q_budget_08", "stance": 1, "stanceNote": "Strongly opposes new taxes or fees", "sourceUrl": null },
+        { "questionId": "q_medicaid_09", "stance": 2, "stanceNote": "Supports Medicaid expansion with work requirements", "sourceUrl": null },
+        { "questionId": "q_primary_10", "stance": 5, "stanceNote": "Vocal NH primary defender", "sourceUrl": null }
+      ]
+    },
+    {
+      "id": "cand_nhhouse_dem_hills_01",
+      "name": "Mary Jane Wallner",
+      "office": "nh_house",
+      "party": "D",
+      "district": "Merrimack-18",
+      "bio": "NH House member from Concord/Merrimack County. Long-serving legislator focused on education funding, healthcare access, and social services.",
+      "website": null,
+      "imageUrl": null,
+      "positions": [
+        { "questionId": "q_school_funding_01", "stance": 5, "stanceNote": "Longtime champion of equitable school funding", "sourceUrl": null },
+        { "questionId": "q_prop_tax_02", "stance": 4, "stanceNote": "Supports reform tied to education funding overhaul", "sourceUrl": null },
+        { "questionId": "q_housing_03", "stance": 4, "stanceNote": "Supported zoning flexibility legislation", "sourceUrl": null },
+        { "questionId": "q_abortion_04", "stance": 5, "stanceNote": "Consistent reproductive rights voter", "sourceUrl": null },
+        { "questionId": "q_opioids_05", "stance": 5, "stanceNote": "Advocate for expanded opioid treatment funding", "sourceUrl": null },
+        { "questionId": "q_energy_06", "stance": 4, "stanceNote": "Supports clean energy transition", "sourceUrl": null },
+        { "questionId": "q_gun_07", "stance": 3, "stanceNote": "Supports background check reforms", "sourceUrl": null },
+        { "questionId": "q_budget_08", "stance": 5, "stanceNote": "Has supported modest revenue increases for services", "sourceUrl": null },
+        { "questionId": "q_medicaid_09", "stance": 5, "stanceNote": "Consistently voted to expand Medicaid", "sourceUrl": null },
+        { "questionId": "q_primary_10", "stance": 3, "stanceNote": "No strong position on primary status", "sourceUrl": null }
+      ]
+    },
+    {
+      "id": "cand_nhhouse_rep_rock_01",
+      "name": "Jason Osborne",
+      "office": "nh_house",
+      "party": "R",
+      "district": "Rockingham-4",
+      "bio": "NH House member from Auburn/Rockingham County. Conservative Republican focused on school choice, Second Amendment rights, and lower taxes.",
+      "website": null,
+      "imageUrl": null,
+      "positions": [
+        { "questionId": "q_school_funding_01", "stance": 1, "stanceNote": "Opposes centralizing school funding at state level", "sourceUrl": null },
+        { "questionId": "q_prop_tax_02", "stance": 4, "stanceNote": "Supports cuts through reduced government spending", "sourceUrl": null },
+        { "questionId": "q_housing_03", "stance": 1, "stanceNote": "Strong local zoning control advocate", "sourceUrl": null },
+        { "questionId": "q_abortion_04", "stance": 1, "stanceNote": "Supports significant abortion restrictions", "sourceUrl": null },
+        { "questionId": "q_opioids_05", "stance": 2, "stanceNote": "Prefers faith-based and community solutions over government programs", "sourceUrl": null },
+        { "questionId": "q_energy_06", "stance": 2, "stanceNote": "Opposes renewable energy mandates", "sourceUrl": null },
+        { "questionId": "q_gun_07", "stance": 1, "stanceNote": "Strong Second Amendment advocate, opposes new restrictions", "sourceUrl": null },
+        { "questionId": "q_budget_08", "stance": 1, "stanceNote": "Strongly anti-tax", "sourceUrl": null },
+        { "questionId": "q_medicaid_09", "stance": 2, "stanceNote": "Supports work requirements and enrollment caps", "sourceUrl": null },
+        { "questionId": "q_primary_10", "stance": 5, "stanceNote": "Strong NH primary defender", "sourceUrl": null }
+      ]
+    },
+    {
+      "id": "cand_ushouse_dem_01",
+      "name": "Chris Pappas",
+      "office": "us_house",
+      "party": "D",
+      "district": "NH-01",
+      "bio": "U.S. Representative for NH's 1st Congressional District (Manchester/Seacoast). Moderate Democrat focused on veterans, healthcare, and economic development.",
+      "website": "https://pappas.house.gov",
+      "imageUrl": null,
+      "positions": [
+        { "questionId": "q_school_funding_01", "stance": 4, "stanceNote": "Supports federal education investment", "sourceUrl": null },
+        { "questionId": "q_prop_tax_02", "stance": 3, "stanceNote": "Supports targeted relief but cautious on revenue changes", "sourceUrl": null },
+        { "questionId": "q_housing_03", "stance": 4, "stanceNote": "Supported federal housing assistance programs", "sourceUrl": null },
+        { "questionId": "q_abortion_04", "stance": 4, "stanceNote": "Voted to codify Roe v. Wade protections federally", "sourceUrl": null },
+        { "questionId": "q_opioids_05", "stance": 5, "stanceNote": "Championed SUPPORT Act and opioid treatment funding", "sourceUrl": null },
+        { "questionId": "q_energy_06", "stance": 4, "stanceNote": "Voted for IRA clean energy provisions", "sourceUrl": null },
+        { "questionId": "q_gun_07", "stance": 3, "stanceNote": "Supported Bipartisan Safer Communities Act", "sourceUrl": null },
+        { "questionId": "q_budget_08", "stance": 3, "stanceNote": "Moderate on revenue vs. spending balance", "sourceUrl": null },
+        { "questionId": "q_medicaid_09", "stance": 5, "stanceNote": "Strong Medicaid supporter", "sourceUrl": null },
+        { "questionId": "q_primary_10", "stance": 4, "stanceNote": "Supports NH primary", "sourceUrl": null }
+      ]
+    }
+  ]
+}

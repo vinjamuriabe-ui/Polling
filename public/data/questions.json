@@ -1,0 +1,115 @@
+{
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "q_school_funding_01",
+      "text": "New Hampshire should shift more school funding away from local property taxes toward broader state revenue sources.",
+      "category": "school_funding",
+      "weight": 1.5,
+      "deepDive": {
+        "summary": "NH relies heavily on local property taxes to fund public schools, causing large funding gaps between wealthy and low-income towns.",
+        "nhContext": "The 1993 Claremont v. Governor Supreme Court ruling required the state to provide adequate education funding. Despite this, NH still leans heavily on property taxes, producing some of the highest tax burdens in New England — especially in rural towns.",
+        "learnMoreUrl": "https://www.nhpr.org/nh-news/claremont-decision"
+      }
+    },
+    {
+      "id": "q_prop_tax_02",
+      "text": "The state government should actively work to reduce New Hampshire's high property tax burden on homeowners.",
+      "category": "property_taxes",
+      "weight": 1.5,
+      "deepDive": {
+        "summary": "NH has no income or sales tax, making property taxes the primary revenue source for local services.",
+        "nhContext": "NH's 'no broad-based tax' tradition means towns fund schools, roads, and services almost entirely through property taxes. NH ranks among the top five states for property taxes as a percentage of home value.",
+        "learnMoreUrl": null
+      }
+    },
+    {
+      "id": "q_housing_03",
+      "text": "New Hampshire should require towns to allow more multi-family housing (like apartments and duplexes) to address the housing shortage.",
+      "category": "housing",
+      "weight": 1.5,
+      "deepDive": {
+        "summary": "NH has a severe housing shortage. Many towns restrict multi-family housing through zoning, driving up rents and home prices.",
+        "nhContext": "NH's median home price has surged over 60% since 2019. Renters in cities like Manchester and Nashua face some of the lowest vacancy rates in the country. State legislation to override exclusionary zoning has been hotly debated.",
+        "learnMoreUrl": null
+      }
+    },
+    {
+      "id": "q_abortion_04",
+      "text": "New Hampshire should protect access to abortion services through state law, independent of federal court decisions.",
+      "category": "abortion",
+      "weight": 1.5,
+      "deepDive": {
+        "summary": "After the U.S. Supreme Court's 2022 Dobbs decision, each state sets its own abortion laws. NH currently bans abortion after 24 weeks with limited exceptions.",
+        "nhContext": "NH is considered a relative safe haven for abortion access in New England, but advocates argue state statutory protections are insufficient. The NH legislature regularly debates expanding or restricting access.",
+        "learnMoreUrl": null
+      }
+    },
+    {
+      "id": "q_opioids_05",
+      "text": "The state should significantly increase funding for opioid treatment programs and expand access to medication-assisted treatment (MAT).",
+      "category": "opioid_crisis",
+      "weight": 1.5,
+      "deepDive": {
+        "summary": "NH has one of the highest rates of opioid overdose deaths per capita in the nation.",
+        "nhContext": "NH's rural geography and limited healthcare infrastructure make the opioid crisis especially severe. The state has expanded Medicaid under the ACA, which funds some treatment, but advocates say coverage gaps remain — especially in northern and rural counties.",
+        "learnMoreUrl": null
+      }
+    },
+    {
+      "id": "q_energy_06",
+      "text": "New Hampshire should invest in renewable energy infrastructure (solar, wind, hydro) to reduce energy costs and carbon emissions.",
+      "category": "energy",
+      "weight": 1.0,
+      "deepDive": {
+        "summary": "NH energy costs are among the highest in the country. The state has significant renewable potential but debates over siting projects — especially wind farms in the White Mountains — are politically charged.",
+        "nhContext": "NH's 'Live Free or Die' independent streak means local control and property rights often trump statewide energy mandates. The Northern Pass transmission project — defeated after years of conflict — illustrates how energy development intersects with NH values.",
+        "learnMoreUrl": null
+      }
+    },
+    {
+      "id": "q_gun_07",
+      "text": "New Hampshire should enact stricter background check requirements and waiting periods for firearm purchases.",
+      "category": "gun_policy",
+      "weight": 1.0,
+      "deepDive": {
+        "summary": "NH has relatively permissive gun laws, including permitless carry. The state has no universal background check law for private sales.",
+        "nhContext": "NH's strong 'Live Free or Die' culture and rural hunting tradition make gun legislation highly contested. In recent sessions, both stricter and looser gun bills have been introduced and debated in the 400-member House.",
+        "learnMoreUrl": null
+      }
+    },
+    {
+      "id": "q_budget_08",
+      "text": "New Hampshire should raise new state revenues (through business taxes, fees, or other mechanisms) to fund education, healthcare, and infrastructure.",
+      "category": "budget",
+      "weight": 1.0,
+      "deepDive": {
+        "summary": "NH's lack of a broad-based income or sales tax limits state revenues. Budget debates often center on the Business Profits Tax and Business Enterprise Tax.",
+        "nhContext": "NH is one of only two states with neither an income tax nor a sales tax. This limits state spending compared to neighboring states and forces trade-offs between services and the low-tax pledge that is central to NH political identity.",
+        "learnMoreUrl": null
+      }
+    },
+    {
+      "id": "q_medicaid_09",
+      "text": "New Hampshire should make Medicaid expansion permanent and expand coverage to more low-income residents.",
+      "category": "healthcare",
+      "weight": 1.0,
+      "deepDive": {
+        "summary": "NH expanded Medicaid in 2014 under the ACA, covering over 100,000 residents. The program has been reauthorized repeatedly but remains politically contested.",
+        "nhContext": "NH was the last state in New England to expand Medicaid, doing so in 2014. The program — branded as 'NH Health Protection' — has bipartisan support from healthcare providers but faces periodic Republican-led efforts to add work requirements or limit enrollment.",
+        "learnMoreUrl": null
+      }
+    },
+    {
+      "id": "q_primary_10",
+      "text": "New Hampshire should protect its First-in-the-Nation primary status, even if it requires negotiating with national party rules.",
+      "category": "nh_identity",
+      "weight": 0.75,
+      "deepDive": {
+        "summary": "NH's presidential primary tradition — held since 1920 — is central to the state's political identity and economy.",
+        "nhContext": "The 2024 cycle saw NH Democrats hold an 'unsanctioned' primary after the DNC moved to make South Carolina first. The state's primary brings millions in economic activity and gives NH voters outsized national influence — a point of pride and controversy.",
+        "learnMoreUrl": null
+      }
+    }
+  ]
+}
